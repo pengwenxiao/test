@@ -6,8 +6,7 @@
 《学吧》是一款学习类App。有保持专注、高级计算、资料查询自习室等功能。现已开源。
 
 ## 商店下载
-酷安应用市场: https://coolapk.com/apk/wpxiao.study.bar
-
+酷安应用市场: [下载](https://coolapk.com/apk/wpxiao.study.bar)
 ## 项目引用
 
 ```markdown
