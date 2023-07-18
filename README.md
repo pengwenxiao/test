@@ -14,7 +14,7 @@ Coolapk: [download](https://coolapk.com/apk/wpxiao.study.bar)
 
 ## WebPage
 ```markdown
-# https://pengwenxiao.github.io/StudyBar/
+# https://pwxiao.top/StudyBar/
 ```
 ## Functions
 
